@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="st_table" max_length="40" name="x_594712_sru_porta_st_table" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="St branch" max_length="40" name="st_branch" type="string"/>
+        <element label="st_ID" max_length="40" name="st_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="St name" max_length="40" name="st_name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

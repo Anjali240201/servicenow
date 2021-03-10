@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="st_address" label="St address" language="en" table="x_594712_sru_porta_student">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>st_address</element>
+            <help/>
+            <hint/>
+            <label>St address</label>
+            <language>en</language>
+            <name>x_594712_sru_porta_student</name>
+            <plural>St address</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 05:24:15</sys_created_on>
+            <sys_id>a50e6fa12f7e2010a285f3ecf699b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>St address</sys_name>
+            <sys_package display_value="SRU Portal" source="x_594712_sru_porta">5e489fd12fb22010a285f3ecf699b6fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRU Portal">5e489fd12fb22010a285f3ecf699b6fa</sys_scope>
+            <sys_update_name>sys_documentation_x_594712_sru_porta_student_st_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 05:24:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

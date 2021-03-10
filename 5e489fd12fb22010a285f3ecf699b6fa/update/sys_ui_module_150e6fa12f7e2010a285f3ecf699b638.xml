@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="SRU Portal">d10e6fa12f7e2010a285f3ecf699b635</application>
+        <filter/>
+        <name>students</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_594712_sru_porta.student_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 05:24:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>150e6fa12f7e2010a285f3ecf699b638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>students</sys_name>
+        <sys_package display_value="SRU Portal" source="x_594712_sru_porta">5e489fd12fb22010a285f3ecf699b6fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRU Portal">5e489fd12fb22010a285f3ecf699b6fa</sys_scope>
+        <sys_update_name>sys_ui_module_150e6fa12f7e2010a285f3ecf699b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 05:24:14</sys_updated_on>
+        <table>x_594712_sru_porta_student</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

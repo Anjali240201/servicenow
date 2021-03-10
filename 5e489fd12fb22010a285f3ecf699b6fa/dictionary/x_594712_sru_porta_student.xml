@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="student" max_length="40" name="x_594712_sru_porta_student" type="collection">
+        <element label="attendance percent" max_length="10" name="attendance_percent" type="string_full_utf8"/>
+        <element label="St address" max_length="30" name="st_address" type="string_full_utf8"/>
+    </element>
+</database>
